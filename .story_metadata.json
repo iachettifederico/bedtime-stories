@@ -1,0 +1,56 @@
+{
+  "sherlock_adventures": {
+    "processed": true,
+    "processed_at": "2025-08-25T16:12:36-03:00",
+    "story_count": 12,
+    "new_stories": 0
+  },
+  "sherlock_return": {
+    "processed": true,
+    "processed_at": "2025-08-25T16:12:41-03:00",
+    "story_count": 0,
+    "new_stories": 0
+  },
+  "sherlock_memoirs": {
+    "processed": true,
+    "processed_at": "2025-08-25T16:12:45-03:00",
+    "story_count": 2,
+    "new_stories": 2
+  },
+  "sherlock_last_bow": {
+    "processed": true,
+    "processed_at": "2025-08-25T16:12:49-03:00",
+    "story_count": 0,
+    "new_stories": 0
+  },
+  "sherlock_casebook": {
+    "processed": true,
+    "processed_at": "2025-08-25T16:12:53-03:00",
+    "story_count": 0,
+    "new_stories": 0
+  },
+  "grimm": {
+    "processed": true,
+    "processed_at": "2025-08-25T16:12:58-03:00",
+    "story_count": 1,
+    "new_stories": 0
+  },
+  "andersen": {
+    "processed": true,
+    "processed_at": "2025-08-25T16:13:02-03:00",
+    "story_count": 2,
+    "new_stories": 0
+  },
+  "oscar_wilde": {
+    "processed": true,
+    "processed_at": "2025-08-25T16:13:06-03:00",
+    "story_count": 2,
+    "new_stories": 0
+  },
+  "english_fairy": {
+    "processed": true,
+    "processed_at": "2025-08-25T16:13:10-03:00",
+    "story_count": 0,
+    "new_stories": 0
+  }
+}
