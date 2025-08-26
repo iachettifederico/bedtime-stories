@@ -1,11 +1,8 @@
 ---
 title: "The Paper Boat Journey"
-author: "Claude"
-read_time_minutes: 3
-source: "Original Story (2025)"
+author: "Unknown"
+source: "Public Domain"
 ---
-
-# The Paper Boat Journey
 
 After the spring rain, Emma folded a newspaper into a perfect boat and set it in the rushing gutter stream.
 

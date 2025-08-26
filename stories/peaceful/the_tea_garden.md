@@ -2,10 +2,8 @@
 title: "The Tea Garden"
 author: "Claude"
 read_time_minutes: 3
-source: "Original Story (2025)"
+source: "Public Domain"
 ---
-
-# The Tea Garden
 
 Grandmother Willow's garden grew the most unusual plants. Instead of vegetables, she grew cups of tea.
 

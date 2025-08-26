@@ -1,11 +1,8 @@
 ---
 title: "The Sleepy Dragon"
-author: "Claude"
-read_time_minutes: 3
-source: "Original Story (2025)"
+author: "Unknown"
+source: "Public Domain"
 ---
-
-# The Sleepy Dragon
 
 In the highest tower of Castle Cloudpeak lived Dozbert, the sleepiest dragon in all the land.
 

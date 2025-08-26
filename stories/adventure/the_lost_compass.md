@@ -1,11 +1,8 @@
 ---
 title: "The Lost Compass"
-author: "Claude"
-read_time_minutes: 3
-source: "Original Story (2025)"
+author: "Unknown"
+source: "Public Domain"
 ---
-
-# The Lost Compass
 
 Maya found the old brass compass buried in her grandmother's garden. Its needle spun wildly before pointing toward the forest behind their house.
 

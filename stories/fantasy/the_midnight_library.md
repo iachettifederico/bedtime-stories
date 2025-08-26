@@ -1,11 +1,8 @@
 ---
 title: "The Midnight Library"
-author: "Claude"
-read_time_minutes: 4
-source: "Original Story (2025)"
+author: "Unknown"
+source: "Public Domain"
 ---
-
-# The Midnight Library
 
 Every night at the stroke of midnight, the books in Luna's bedroom came alive.
 
